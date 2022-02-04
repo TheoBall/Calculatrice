@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="BT_clear">C</string>
+    <string name="BT_diviser">/</string>
+    <string name="BT_multiplier">x</string>
+    <string name="BT_supprimer">del</string>
+    <string name="BT_7">7</string>
+    <string name="BT_8">8</string>
+    <string name="BT_9">9</string>
+    <string name="BT_moins">-</string>
+    <string name="BT_4">4</string>
+    <string name="BT_5">5</string>
+    <string name="BT_6">6</string>
+    <string name="BT_additionner">+</string>
+    <string name="BT_1">1</string>
+    <string name="BT_2">2</string>
+    <string name="BT_3">3</string>
+    <string name="BT_egal">=</string>
+    <string name="BT_0">0</string>
+    <string name="BT_virgule">.</string>
+</resources>

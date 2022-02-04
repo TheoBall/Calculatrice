@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Activité principale -->
+    <dimen name="main_layout_margin">1dp</dimen>
+    <dimen name="main_layout_padding">2dp</dimen>
+    <dimen name="main_textview_layout_height">180dp</dimen>
+    <dimen name="main_gridview_layout_height">500dp</dimen>
+    <dimen name="main_textsize">40sp</dimen>
+    <dimen name="main_button_textsize">30sp</dimen>
+</resources>
